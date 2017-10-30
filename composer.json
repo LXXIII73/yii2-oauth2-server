@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lxxiii73\\yii2\\oauth2server\\": ""
+            "filsh\\yii2\\oauth2server\\": ""
         }
     },
     "extra": {
